@@ -7,7 +7,7 @@ namespace DesignPatterns
         static void Main(string[] args)
         {
             // [[strategy]]
-            //========================================================
+            //=============
 
 
             Imposto iss = new ISS();
