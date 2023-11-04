@@ -1,6 +1,6 @@
 ﻿namespace DesignPatterns
 {
-    // Classe de regras de negocio
+    // Classe regras de negocio
     public class ICMS : Imposto  // Classe ICMS implementa Intaface Imposto
     {
         public double Calcula(Orcamento orcamento)
